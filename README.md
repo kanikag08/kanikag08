@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Kanika Goyal 👋
 
-<!--
-**kanikag08/kanikag08** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 B.Tech Information Technology Student @ IGDTUW
 
-Here are some ideas to get you started:
+🤖 Exploring AI
+🌐 Web Development Enthusiast
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🚀 Building impactful projects and continuously learning
+
+📍 New Delhi, India
+
+📧 kanikagoyal596@gmail.com
+
+💼 LinkedIn: https://www.linkedin.com/in/kanika-goyal-b8753937b?utm_source=share_via&utm_content=profile&utm_medium=member_android
+✨ Learning. Building. Growing.
