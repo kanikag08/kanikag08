@@ -11,6 +11,8 @@
 
 📧 kanikagoyal596@gmail.com
 
+🌐 Connect with me
+
 💼 LinkedIn: https://www.linkedin.com/in/kanika-goyal-b8753937b?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 ✨ Learning. Building. Growing.
