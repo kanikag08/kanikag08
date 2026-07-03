@@ -3,7 +3,8 @@
 💻 B.Tech Information Technology Student @ IGDTUW
 
 🤖 Exploring AI
-🌐 Web Development Enthusiast
+
+ Web Development Enthusiast
 
 🚀 Building impactful projects and continuously learning
 
